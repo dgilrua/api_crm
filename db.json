@@ -4,7 +4,7 @@
       "nombre": "David",
       "empresa": "asd",
       "email": "d@d.com",
-      "telefono": "3242194486",
+      "telefono": "32421944862",
       "notas": "",
       "id": 4
     },
@@ -12,17 +12,9 @@
       "nombre": "asasdasdasdasdasdas",
       "empresa": "Globant",
       "email": "dgilrua@gmail.com",
-      "telefono": "",
+      "telefono": "12",
       "notas": "",
       "id": 5
-    },
-    {
-      "nombre": "Tatiana",
-      "empresa": "Corona",
-      "email": "tgilr@corona.com.co",
-      "telefono": "1",
-      "notas": "",
-      "id": 6
     },
     {
       "nombre": "asasdasdasdasdasdas",
@@ -31,6 +23,14 @@
       "telefono": "123",
       "notas": "",
       "id": 7
+    },
+    {
+      "nombre": "David",
+      "empresa": "asd",
+      "email": "d@d.com",
+      "telefono": "3242194486",
+      "notas": "",
+      "id": 8
     }
   ]
 }

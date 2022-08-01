@@ -13,12 +13,12 @@ export const Layout = () => {
 
             <nav className='mt-10'>
                 <Link 
-                    className={`${url === '/clientes' ? 'text-blue-900' : 'text-white'} text-2xl block mt-2 hover:text-blue-900 font-semibold`}
-                    to="/clientes"
+                    className={`${url === '/' ? 'text-blue-900' : 'text-white'} text-2xl block mt-2 hover:text-blue-900 font-semibold`}
+                    to="/"
                 >Clientes</Link>
                 <Link 
-                    className={`${url === '/clientes/nuevo' ? 'text-blue-900' : 'text-white'} text-2xl block mt-2 hover:text-blue-900 font-semibold`}
-                    to="/clientes/nuevo"
+                    className={`${url === '/nuevo' ? 'text-blue-900' : 'text-white'} text-2xl block mt-2 hover:text-blue-900 font-semibold`}
+                    to="/nuevo"
                 >Nuevo Cliente</Link>
             </nav>
         </div>
