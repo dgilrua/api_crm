@@ -27,7 +27,7 @@ export const Inicio = ({setTomar}) => {
 
     if(confirmar) {
       try {
-        const url = `http://localhost:4000/cliente/${id}`
+        const url = `http://localhost:4000/clientes/${id}`
         const respuesta  = await fetch(url, {
         method: 'DELETE'
         })

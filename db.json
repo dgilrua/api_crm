@@ -1,30 +1,6 @@
 {
   "clientes": [
     {
-      "nombre": "Davida",
-      "empresa": "Globanta",
-      "email": "dgilrua@gmail.com",
-      "telefono": "3242194486",
-      "notas": "Vamos con toda hpta!",
-      "id": 1
-    },
-    {
-      "nombre": "Susana",
-      "empresa": "Bancolombia",
-      "email": "susanagomezuribe@gmail.com",
-      "telefono": "1231412312",
-      "notas": "Te amo",
-      "id": 2
-    },
-    {
-      "nombre": "Natalia",
-      "empresa": "No se",
-      "email": "daniela@daniela.com",
-      "telefono": "2123123",
-      "notas": "asdasdasdasd",
-      "id": 3
-    },
-    {
       "nombre": "David",
       "empresa": "asd",
       "email": "d@d.com",
@@ -47,6 +23,14 @@
       "telefono": "1",
       "notas": "",
       "id": 6
+    },
+    {
+      "nombre": "asasdasdasdasdasdas",
+      "empresa": "Globant",
+      "email": "dgilrua@gmail.com",
+      "telefono": "123",
+      "notas": "",
+      "id": 7
     }
   ]
 }
